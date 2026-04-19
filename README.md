@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Maryland
 
-> Free BeamStation sample export with 59 rows and masked direct-contact fields.
+> Free BeamStation sample export with 66 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `740644` |
 | Location | Maryland |
 | Category | Food and Drink |
-| Full dataset size | 596 records |
-| Free sample size | 59 records (9.9%) |
-| Last export | 2026-04-09T18:53:37.379931+00:00 |
+| Full dataset size | 666 records |
+| Free sample size | 66 records (9.91%) |
+| Last export | 2026-04-16T22:07:10.717752+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-740644/releases/download/sample-latest/beamstation_740644_food_and_drink-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
